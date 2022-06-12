@@ -4,6 +4,7 @@
 <h3 align="center">I'm a Flutter developer.</h3>
 <!-- <img src="https://c.tenor.com/buk21FwYeHsAAAAC/earth-dance.gif" width="50px">, -->
 
+-  Bringing awsome ideas into real life.
 -  Eager to learn Algorithms and Data Structures more.
 -  Projects I have worked on can be found here.
 -  Want to reach me? 📫 iqbalrahatcse@outlook.com
