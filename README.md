@@ -8,7 +8,7 @@
 -  Projects I have worked on can be found here.
 -  Want to reach me? 📫 iqbalrahatcse@outlook.com
 
-<h3 align="left">Lets get connected</h3>
+<h3 align="left">Find me here</h3>
 <p align="left">
 <a href="https://twitter.com/iqbalrahatcse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahat-iqbal-81b4771bb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
