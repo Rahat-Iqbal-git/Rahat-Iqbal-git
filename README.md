@@ -2,7 +2,6 @@
 
 <h1 align="center">hello world this is Rahat Iqbal</h1>
 <h3 align="center">I'm a Software Engineer.</h3>
-<!-- <img src="https://c.tenor.com/buk21FwYeHsAAAAC/earth-dance.gif" width="50px">, -->
 
 -  I have built apps with Millions+ downloads.
 -  4 years of experience
