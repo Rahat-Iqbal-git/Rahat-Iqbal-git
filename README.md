@@ -2,6 +2,7 @@
   <samp>
     hello world this is Rahat Iqbal, Software Engineer. I am a Software Engineer currently working at Technonext. Interested in learning and exploring more about Golang, ML, AI and Database. 
   </samp>
+  <br> </br>
 
 -  I have built apps with Millions+ downloads.
 -  4 years of experience
