@@ -1,6 +1,6 @@
 
   <samp>
-    hello world this is Rahat Iqbal, Software Engineer. I am a Software Engineer currently working at Technonext. Interested in learning and exploring more about Golang, ML, AI and Database. 
+    hello world this is Rahat Iqbal, Software Engineer. I am currently working at Technonext. Interested in learning and exploring more about Golang, ML, AI and Database. 
   </samp>
   <br> </br>
 
