@@ -1,6 +1,6 @@
 
   <samp>
-    hello world this is #Rahat Iqbal, ##Software Engineer. I am currently working at Technonext. Interested in learning and exploring more about Golang, ML, AI and Database. 
+    hello world this is <b>Rahat Iqbal</b>, <b>Software Engineer</b>. I am currently working at Technonext. Interested in learning and exploring more about Golang, ML, AI and Database. 
   </samp>
   <br> </br>
 
