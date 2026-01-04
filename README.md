@@ -17,7 +17,8 @@
 My best works include <b>Firsttrip, Cartup, Hajitalk</b> etc. 
 
 *I have worked with my team for nearly 2 years in the Firsttrip project and successfully delivered. The app has over **100K+ downloads** in Play Store. Firsttrip Limited is one of the fastest-growing Online Travel Agencies (OTAs) in Bangladesh.*
-  *I worked in the Cartup team, where we built an app with **over 1 MILLION+ downloads**. Cartup is an ecommerce platform, that aims to compete with Daraz and other platforms.*
+
+*I worked in the Cartup team, where we built an app with **over 1 MILLION+ downloads**. Cartup is an ecommerce platform, that aims to compete with Daraz and other platforms.*
 </p>
 
 I am currently working at Technonext. Previously I have worked at JBC (a software company with teams in Japan and Bangladesh) and Quicktech IT.
