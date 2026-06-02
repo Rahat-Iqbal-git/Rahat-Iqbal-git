@@ -5,7 +5,7 @@
   <br> </br>
 
 -  I have built apps with Millions+ downloads.
--  4 years of experience
+-  4.5 years of experience
 -  CLEAN architecture, Unit testing, CI/CD
 -  Interested in Golang, ML and AI.
 -  📫 Email :  iqbalrahatcse@outlook.com, rahatiqbalcse@gmail.com
